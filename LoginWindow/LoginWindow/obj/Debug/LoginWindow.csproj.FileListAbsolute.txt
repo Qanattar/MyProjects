@@ -1,0 +1,11 @@
+C:\qbala\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe.config
+C:\qbala\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe
+C:\qbala\LoginWindow\LoginWindow\bin\Debug\LoginWindow.pdb
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csprojAssemblyReference.cache
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Form1.resources
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csproj.GenerateResource.cache
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csproj.CoreCompileInputs.cache
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.exe
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.pdb
+C:\qbala\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Main.resources
